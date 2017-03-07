@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JKRecyclerView</string>
+    <string name="jk_rv_loading">加载中…</string>
+    <string name="jk_rv_load_more">上拉或点击加载更多</string>
+    <string name="jk_rv_empty">没有数据啦</string>
+    <string name="jk_rv_error">加载错误</string>
+</resources>
